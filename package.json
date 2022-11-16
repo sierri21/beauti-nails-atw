@@ -1,0 +1,22 @@
+{
+  "name": "beauti-nails-atw",
+  "version": "1.0.0",
+  "description": "fullstack app for nails based on nestjs platform with telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo everithing is ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sierri21/beauti-nails-atw.git"
+  },
+  "author": "sierri21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sierri21/beauti-nails-atw/issues"
+  },
+  "homepage": "https://github.com/sierri21/beauti-nails-atw#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
